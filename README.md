@@ -22,6 +22,14 @@ Busco activamente **obtener experiencia práctica** y **desarrollar mis habilida
 
 ---
 
+## 📈 Mi Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jfmartinez10&show_icons=true&theme=dark&rank_icon=title&hide_border=true" alt="Estadísticas de GitHub de jfmartinez10" />
+</div>
+
+---
+
 ## 💻 Habilidades Técnicas
 
 Actualmente, trabajo y estudio con las siguientes tecnologías:
