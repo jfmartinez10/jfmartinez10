@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy José Fernando Martínez Martínez
 
 <div align="center">
-  <img src="gif1.gif" alt="Coding GIF" width="300"/>
+  <img src="gif1.gif" alt="Coding GIF" width="300"/>
 </div>
 
 ### 🚀 Estudiante de Desarrollo de Aplicaciones Web (DAW)
@@ -24,11 +24,11 @@ Busco activamente **obtener experiencia práctica** y **desarrollar mis habilida
 ## 📈 Mi Actividad en GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfmartinez10&show_icons=true&theme=shades-of-purple&hide_border=true&rank_icon=title&title_color=00BFFF&icon_color=00BFFF" alt="Estadísticas de GitHub de jfmartinez10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jfmartinez10&show_icons=true&theme=shades-of-purple&hide_border=true&rank_icon=title&title_color=00BFFF&icon_color=00BFFF" alt="Estadísticas de GitHub de jfmartinez10" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmartinez10&layout=compact&theme=shades-of-purple&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Lenguajes Más Usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmartinez10&layout=compact&theme=shades-of-purple&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Lenguajes Más Usados" />
 </p>
 
 ---
@@ -55,7 +55,8 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 | **[gestiontaller](https://github.com/jfmartinez10/gestiontaller)** | Sistema de gestión completo para un taller mecánico. | Java, MySQL |
 | **[League-of-Legends-Sobres-sorpresa](https://github.com/jfmartinez10/League-of-Legends-Sobres-sorpresa)** | Juego interactivo en terminal basado en la apertura de cartas sorpresa. | Java |
 | **[Introduccion-Backend](https://github.com/jfmartinez10/Introduccion-Backend)** | Repositorio de prácticas y ejemplos para introducción a la programación backend. | JavaScript, Node.js |
-| **Proyecto TFG - Web Streetwear** | (En Proceso) Mi Proyecto de Fin de Grado: una web de moda *streetwear*. | HTML5, CSS3, JavaScript |
+| **[unlockd](https://github.com/jfmartinez10/unlockd)** | (En Proceso) Mi Proyecto de Fin de Grado: una web de moda *streetwear*. | HTML5, CSS3, JavaScript |
+| **[portfolio](https://github.com/jfmartinez10/portfolio)** | (En Proceso) Mi portafolio personal y currículum digital. | HTML5, CSS3, JavaScript |
 
 ---
 
