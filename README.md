@@ -23,13 +23,13 @@ Busco activamente **obtener experiencia práctica** y **desarrollar mis habilida
 ---
 ## 📈 Mi Actividad en GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfmartinez10&show_icons=true&theme=shades-of-purple&hide_border=true&rank_icon=title&title_color=00BFFF&icon_color=00BFFF" alt="Estadísticas de GitHub de jfmartinez10" />
-</p>
+### Estadísticas Generales
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmartinez10&layout=compact&theme=shades-of-purple&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Lenguajes Más Usados" />
-</p>
+[![Estadísticas de GitHub de jfmartinez10](https://github-readme-stats.vercel.app/api?username=jfmartinez10&show_icons=true&theme=shades-of-purple&hide_border=true&rank_icon=title&title_color=00BFFF&icon_color=00BFFF)](https://github.com/jfmartinez10)
+
+### Lenguajes Más Usados
+
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jfmartinez10&layout=compact&theme=shades-of-purple&hide_border=true&title_color=00BFFF&icon_color=00BFFF)](https://github.com/jfmartinez10)
 
 ---
 
