@@ -56,7 +56,7 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 | **[League-of-Legends-Sobres-sorpresa](https://github.com/jfmartinez10/League-of-Legends-Sobres-sorpresa)** | Juego interactivo en terminal basado en la apertura de cartas sorpresa. | Java |
 | **[Introduccion-Backend](https://github.com/jfmartinez10/Introduccion-Backend)** | Repositorio de prácticas y ejemplos para introducción a la programación backend. | JavaScript, Node.js |
 | **[unlockd](https://github.com/jfmartinez10/unlockd)** | (En Proceso) Mi Proyecto de Fin de Grado: una web de moda *streetwear*. | HTML5, CSS3, JavaScript |
-| **[portfolio](https://github.com/jfmartinez10/portfolio)** | (En Proceso) Mi portafolio personal y currículum digital. | HTML5, CSS3, JavaScript |
+| **[portfolio](https://github.com/jfmartinez10/portfolio)** | Mi portafolio personal y currículum digital. | HTML5, CSS3, JavaScript |
 
 ---
 
