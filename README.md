@@ -25,11 +25,11 @@ Busco activamente **obtener experiencia práctica** y **desarrollar mis habilida
 
 ### Estadísticas Generales
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jfmartinez10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas" height="195px" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jfmartinez10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas" height="195px" />
 
 ### Lenguajes Más Usados
 
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jfmartinez10&layout=compact&theme=radical" alt="Lenguajes" height="195px" />
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jfmartinez10&layout=compact&theme=tokyonight" alt="Lenguajes" height="195px" />
 
 ---
 
