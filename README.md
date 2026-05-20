@@ -45,7 +45,7 @@ Actualmente, trabajo y estudio con las siguientes tecnologías:
 | **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> |
 | **Bases de Datos** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/> |
 | **API** | <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/> |
-| **Despliegue** | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/> |
+| **Despliegue** | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/> |
 
 ---
 
@@ -55,9 +55,9 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
-| **[unlockd](https://github.com/jfmartinez10/unlockd)** | Mi Proyecto de Fin de Grado: una web de moda *streetwear*. | HTML5, CSS3, JavaScript |
-| **[portfolio](https://github.com/jfmartinez10/Portfolio)** | Mi portafolio personal y currículum digital. | HTML5, CSS3, JavaScript |
-| **[Rastreador-de-precios-sobre-PcComponentes](https://github.com/jfmartinez10/Rastreador-de-precios-sobre-PcComponentes)** | API REST de seguimiento automático de precios de PCComponentes con scraping.| HTML5, CSS3, JavaScript, Node.js, PostgreSQL |
+| **[unlockd](https://github.com/jfmartinez10/unlockd)** | Mi Proyecto de Fin de Grado: una web de moda *streetwear* con backend completo, autenticación y base de datos relacional. | HTML5, CSS3, JavaScript (ES6+), Node.js, Express, PostgreSQL, JWT, bcrypt, Nodemailer, Netlify, Git |
+| **[portfolio](https://github.com/jfmartinez10/Portfolio)** | Mi portafolio personal y currículum digital dinámico. | HTML5, CSS3, JavaScript (ES6+), Vercel, Git |
+| **[Rastreador-de-precios-sobre-PcComponentes](https://github.com/jfmartinez10/Rastreador-de-precios-sobre-PcComponentes)** | API REST de seguimiento automático de precios de PcComponentes mediante scraping, base de datos relacional, tareas programadas y sistema de alertas dinámico. | HTML5, CSS3, JavaScript (ES6+), Node.js, Express, PostgreSQL, Supabase, Puppeteer, node-cron, pg (node-postgres), CORS, Git |
 
 ---
 
