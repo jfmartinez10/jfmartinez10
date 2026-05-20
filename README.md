@@ -55,7 +55,7 @@ Aquí puedes ver algunos de los proyectos en los que he trabajado:
 
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
-| **[unlockd](https://github.com/jfmartinez10/unlockd)** | (En Proceso) Mi Proyecto de Fin de Grado: una web de moda *streetwear*. | HTML5, CSS3, JavaScript |
+| **[unlockd](https://github.com/jfmartinez10/unlockd)** | Mi Proyecto de Fin de Grado: una web de moda *streetwear*. | HTML5, CSS3, JavaScript |
 | **[portfolio](https://github.com/jfmartinez10/portfolio)** | Mi portafolio personal y currículum digital. | HTML5, CSS3, JavaScript |
 | **[Rastreador-de-precios-sobre-PcComponentes](https://github.com/jfmartinez10/Rastreador-de-precios-sobre-PcComponentes)** | API REST de seguimiento automático de precios de PCComponentes con scraping.| HTML5, CSS3, JavaScript, Node.js, PostgreSQL |
 
